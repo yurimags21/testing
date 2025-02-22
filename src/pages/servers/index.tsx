@@ -1,0 +1,1 @@
+import { CoroinhasTable } from "@/components/servers/CoroinhasTable" 
